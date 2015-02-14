@@ -14,9 +14,9 @@ color:
 
 # Team names, titles and social links
 people:
-- name: Kay Garland
+- name: Hector Otero
   pic: 1
-  position: Lead Designer
+  position: Back-End Developer
   social:
     - title: twitter
       url: #
@@ -25,9 +25,9 @@ people:
     - title: stack-overflow
       url: #
 
-- name: Larry Parker
+- name: Fernando Ramos
   pic: 2
-  position: Lead Marketer
+  position: Front-End Developer
   social:
     - title: twitter
       url: #
@@ -36,9 +36,9 @@ people:
     - title: linkedin
       url: #
 
-- name: Diana Petersen
+- name: Brian Gutierrez
   pic: 3
-  position: Lead Developer
+  position: Communications Manager
   social:
     - title: twitter
       url: #
@@ -62,9 +62,8 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
-
+  - line: 2632 E. Highcastle
+  - line: West Covina, CA. 91792
 # Build settings
 markdown: kramdown
 permalink: pretty
